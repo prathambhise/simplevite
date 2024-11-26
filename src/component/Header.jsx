@@ -3,7 +3,7 @@ import "./Header.css"
 function Header(){
     return(
         <>
-        <h1>Header Bar</h1>
+        <h1 className="header-bar">Header Bar</h1>
         </>
     )
 }
